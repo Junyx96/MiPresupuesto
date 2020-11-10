@@ -1,3 +1,13 @@
+## CambiosPresupuestoApp
+
+Esta es una aplicaicon de un proyecto Angular con algunas modificaciones
+
+Ejecutar este comando
+
+```
+npm install
+```
+
 # PresupuestoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
